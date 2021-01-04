@@ -23,4 +23,4 @@ func main() {
 ```
 
 # License
-MIT
+[MIT](./LICENSE)
